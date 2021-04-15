@@ -1,0 +1,9 @@
+“exercise_#.png/jpg” in the “partial” folder
+use git add . 
+git commit -m“exercise #”
+git push.
+
+exercise_
+git status
+
+had this prepared with the commands
